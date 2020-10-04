@@ -1,0 +1,5 @@
+
+WARNING: 0:1: '' :  #version directive missing
+ERROR: 0:1: 'Skip' : syntax error syntax error
+
+

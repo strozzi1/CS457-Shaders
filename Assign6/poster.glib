@@ -1,0 +1,20 @@
+##OpenGL GLIB
+
+Perspective 90
+LookAt 0 0 2  0 0 0  0 1 0
+
+
+Vertex   poster.vert
+Fragment poster.frag
+Program  Poster				\
+	uAd <.001 .1 .5>		\
+	uBd <.001 .1 .5>		\
+	uTol <0. 0. 1.>			\
+	uNoiseAmp <0.2 0.2 1.>  	\
+	uNoiseFreq <0. 1. 10.>   \
+
+
+
+Color 1. .9 0
+Obj pigY.obj
+#Sphere 1 50 50
